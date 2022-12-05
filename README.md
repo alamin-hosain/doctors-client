@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live site url
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live View Here [Doctors Portal](https://doctors-portal-93651.web.app/).
 
 ## Available Scripts
 
